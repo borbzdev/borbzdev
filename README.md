@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @borbzdev
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React ,C#, and ASP.NET CORE
 - 💞️ Im working as database support engineer 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
